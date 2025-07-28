@@ -4,4 +4,5 @@
 <img width="1761" height="75" alt="image" src="https://github.com/user-attachments/assets/706b5fb7-300c-4329-96da-b0ae2ad938fa" />
 <img width="1090" height="142" alt="image" src="https://github.com/user-attachments/assets/87d9f7d4-20cd-4217-b79e-d8acc5975985" />
 Ошибка переполнения очереди с HTTP кодом
-![Uploading image.png…]()
+<img width="943" height="132" alt="image" src="https://github.com/user-attachments/assets/5172b6c4-8655-4c74-95a9-f296d58b6f2c" />
+
